@@ -15,11 +15,10 @@ Here's some terminology you may encounter while submitting a port request:
 | Item1 | Item1 Description |
 | Item2 | Item2 Description |
 
->> Keep in Mind: look! a tip goes here!
-
-
-
 ## Your Step-by-Step Guide to Glory
+>> Tip! 
+>> This guide acts as if you're porting one number, but have no fear, you can do multiple numbers quite easily!
+
 1. Let's get this kicked off. First, hop into the Port Manager application. It looks like this:
 ![Port Manager App](submit1.png)
 
@@ -28,9 +27,6 @@ Here's some terminology you may encounter while submitting a port request:
 
 3. Type out the number you're requesting to port.
 ![Enter Number](submit3.png)
-
->> Tip! 
->> Don't fret, you can add additional numbers at your hearts desire!
 
 4. Don't ignore the important parts here. Read each of these dandy check boxes and confirm you understand.
 ![Confirm Checks](submit4.png)
